@@ -1,6 +1,6 @@
 ---
 description: 防止您的網站遭受攻擊，讓安全性更加完善，請參閱下列產品，進一步瞭解 Tenten 如何幫助您防止駭客來犯。
-cover: ../.gitbook/assets/VirtualEvents_1_A-1493x800.png
+cover: ../../.gitbook/assets/VirtualEvents_1_A-1493x800.png
 coverY: 0
 ---
 
