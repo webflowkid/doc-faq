@@ -2,8 +2,7 @@
 description: >-
   We create website & app people loves. We focuses on team's growth and
   learning, hence all Tentener loves sharing, helping and lifting others
-cover: >-
-  https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
+cover: ../.gitbook/assets/sprint.png
 coverY: 0
 ---
 
@@ -41,10 +40,6 @@ As digital transformation and technology adoption take centre stage, new people 
 * [Tenten I.T. Solution - Philippines](https://tenten.dev/)
 * [SparkProtein](https://sparkprotein.com/)
 * [Area02](https://area02.com/)
-
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
 
 ## Rae Yu
 
