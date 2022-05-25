@@ -1,15 +1,30 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1511497584788-876760111969?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3432&q=80
+cover: ../.gitbook/assets/VirtualEvents_1_A-1493x800.png
 coverY: 0
 ---
 
 # SSL
 
-To request time off, just fill in our simple form and we'll get it approved!
+SSL 憑證可以確保您的網站安全無虞，讓您的訪客無後顧之憂。請參考以下表格，瞭解最適合您的方案。
 
-{% hint style="info" %}
-**Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
-{% endhint %}
+| 憑證方案                       | 標準版 SSL           | 組織驗證 OV SSL       | 萬用 SSL         |
+| -------------------------- | ----------------- | ----------------- | -------------- |
+| **價格**                     | 2690 NTD          | 6500 NTD          | 9800 NTD       |
+| **保護網站數**                  | 1 個網站             | 最多 100 個網站        | 1 個網站及其所有子網域   |
+| **強大的 SHA2 和 2048 位元加密功能** | ✔                 | ✔                 | ✔              |
+| **相容憑證類型**                 | DV、OV 和 EV SSL 憑證 | DV、OV 和 EV SSL 憑證 | DV 和 OV SSL 憑證 |
+| **提高 Google® 排名**          | ✔                 | ✔                 | ✔              |
 
-{% embed url="https://2w3pnm4iy73.typeform.com/to/P228Ngvj" %}
+| 憑證類型                     | 網域驗證 (DV) SSL 憑證 | 組織驗證 (OV) SSL 憑證 | 延伸驗證 (EV) SSL 憑證 |
+| ------------------------ | ---------------- | ---------------- | ---------------- |
+| **價格**                   | 檢視價格             | 檢視價格             | 檢視價格             |
+| **適合對象**                 | 部落格和社交網站         | 企業和組織            | 電子商務網站           |
+| **證明網域所有權**              | ✔                | ✔                | ✔                |
+| **驗證組織**                 |                  | ✔                | ✔                |
+| **顯示公司的合法性**             |                  |                  | ✔                |
+| **在網址列中顯示掛鎖**            | ✔                | ✔                | ✔                |
+| **保護多個網站 (多網域 SAN SSL)** | ✔                | ✔                | ✔                |
+| **保護所有子域 (萬用 SSL)**      | ✔                | ✔                |                  |
+| **安全信任簽章**               | ✔                | ✔                | ✔                |
+
+****
