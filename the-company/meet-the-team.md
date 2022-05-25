@@ -51,3 +51,14 @@ As digital transformation and technology adoption take centre stage, new people 
 
 ![Rae Yu - COO, tenten](https://tenten.co/learning/content/images/size/w2000/2022/04/0419-2.jpg)
 
+
+
+### Meet the Team
+
+#### Taipei, Taiwan Office
+
+![TENTEN Taipei tea](https://i.imgur.com/Jp7XHek.jpg)
+
+#### Marikina, Philippine Office
+
+![TENTEN Philippine team](https://i.imgur.com/UBifzNP.jpg)
