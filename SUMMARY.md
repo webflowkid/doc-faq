@@ -9,5 +9,5 @@
 
 ## Products And Services
 
-* [SSL 安全憑證價格](products-and-services/ssl-an-quan-ping-zheng-jia-ge/README.md)
-  * [SSL 憑證相關常見問題](products-and-services/ssl-an-quan-ping-zheng-jia-ge/ssl-ping-zheng-xiang-guan-chang-jian-wen-ti.md)
+* [SSL 安全憑證](products-and-services/ssl-an-quan-ping-zheng/README.md)
+  * [SSL 憑證相關常見問題](products-and-services/ssl-an-quan-ping-zheng/ssl-ping-zheng-xiang-guan-chang-jian-wen-ti.md)
